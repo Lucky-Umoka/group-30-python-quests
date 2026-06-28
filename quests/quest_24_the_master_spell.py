@@ -9,3 +9,4 @@ def can_they_vote(age):
     else:
         print(f"At {age} years old, you are not eligible to vote. You have {18 - age} more year(s) to go.")
 
+user_age = ask_for_age()
