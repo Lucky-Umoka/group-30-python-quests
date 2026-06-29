@@ -1,7 +1,13 @@
 # Group 30 Python Quests
+# Group 30 Python Quests
 
-## How to Run Any Quest
-python3 quests/quest_XX_name.py
+A repository for tracking and completing Python coding quests.
+
+## How to Run a Quest
+
+From the main directory, run any quest using:
+- bash
+python3 quest_XX_name.py
 
 ## Levels
 - Level 1 (Quests 1-5): Variables and Printing
